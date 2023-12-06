@@ -11,13 +11,13 @@
 
 # Database
 * PostgreSQL
-  * HA(replication)
+  * HA(replica)
   * SSL
 * MongoDB
-  * HA(replication)
+  * HA(replica)
   * SSL 
 * Redis
-  * HA(replication)
+  * HA(replica)
   * SSL 
 
 # DevOps
