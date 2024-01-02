@@ -67,5 +67,6 @@
 4. Kubernetes
 5. Docker
 6. Prometheus + Grafana (Monitoring)
-7. Elasticsearch + Fluentd + Kibana (Logging)
-8. Apache Airflow (workflow management for data engineering pipelines)
+    * Thanos, Cortex for Prometheus's HA
+8. Elasticsearch + Fluentd + Kibana (Logging)
+9. Apache Airflow (workflow management for data engineering pipelines)
