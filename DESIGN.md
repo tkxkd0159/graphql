@@ -56,8 +56,9 @@
 3. Redis (In-memory KV store)
 
 ## Middleware
-1. Hasura
-2. **Kafka**, Pulsar, RabbitMQ (Message broker)
+1. GraphQL APIs on DB : Hasura
+2. Message Broker : **Kafka**, Pulsar, RabbitMQ (Message broker)
+3. Service Mesh : istio, linkerd
 
 ## DevOps
 1. Packer
